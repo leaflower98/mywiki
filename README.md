@@ -1,0 +1,2 @@
+# mywiki
+Private wiki repository
