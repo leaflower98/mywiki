@@ -1,0 +1,6 @@
+site_name: My Docs
+nav:
+    - Home: index.md
+    - Haixinyu: haixinyu.md
+theme:
+  name: 'material'
